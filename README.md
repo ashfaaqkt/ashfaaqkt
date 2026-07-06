@@ -2,10 +2,10 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=220&section=header&text=Ashfaaq%20KT&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Document%20Intelligence%20%7C%20AI%20Builder%20%7C%20Founder%20@%20AshTech&descAlignY=58&descSize=18" width="100%"/>
 </p>
 
-<h3 align="center">Namaste 🙏 I'm Ashfaaq</h3>
+<h3 align="center">HELLO..! I'm Ashfaaq</h3>
 
 <p align="center">
-🎓 Final-year B.Sc. Computer Science student @ BITS Pilani (WILP) — graduating August 2026<br/>
+🎓 Final-year B.Sc. Computer Science student @ BITS Pilani (Digital) — graduating August 2026<br/>
 🤖 Lead Developer building AI-powered document intelligence systems<br/>
 🚀 Founder-in-progress @ <b>AshTech Software Solutions</b>
 </p>
